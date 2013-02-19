@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WWW", "WWW\", "{AC7B53C3-EB79-4445-BC96-F2A8C6A995A3}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/WWW"
+		Debug.AspNetCompiler.PhysicalPath = "WWW\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WWW\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WWW"
+		Release.AspNetCompiler.PhysicalPath = "WWW\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WWW\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49820"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WW2", "WW2\", "{828945DD-2291-405E-98F5-3D53DE77868D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/WW2"
+		Debug.AspNetCompiler.PhysicalPath = "WW2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WW2\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WW2"
+		Release.AspNetCompiler.PhysicalPath = "WW2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WW2\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61283"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC7B53C3-EB79-4445-BC96-F2A8C6A995A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7B53C3-EB79-4445-BC96-F2A8C6A995A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828945DD-2291-405E-98F5-3D53DE77868D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828945DD-2291-405E-98F5-3D53DE77868D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
