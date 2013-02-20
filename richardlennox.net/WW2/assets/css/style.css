@@ -267,7 +267,7 @@ body {
 @media (max-width: 539px) {
 
     .sub-title li { display: block; }
-
+    .navbar-fixed-bottom { position: relative; }
 }
 
 
